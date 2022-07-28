@@ -1,5 +1,5 @@
 apiVersion: "1"
-version: "4"
+version: "5"
 id: "casc-ws-20220728-ops-controller"
 description: "CloudBees CI configuration bundle for the casc-ws-20220728 ops-controller Controller"
 parent: "base"
